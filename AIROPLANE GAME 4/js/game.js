@@ -153,7 +153,7 @@ class Game {
       wall2.visible=false
       wall3.visible=false
       invisibleGround.visible=false
-      //invisibleGround2.visible=false
+      invisibleGround2.visible=false
 
      player1.collide( invisibleGround)
       
